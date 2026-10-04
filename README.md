@@ -6,3 +6,7 @@ I am learning Git and GitHub step by step.
 - git
 - github
 - version control
+
+## GitHub
+
+This project is being used to learn Git and GitHub.
